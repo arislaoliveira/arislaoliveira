@@ -10,7 +10,7 @@
   <br>
 <div>
   <a href="https://github.com/arislaoliveira">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=arislaoliveira&show_icons=true&theme=synthwave"/> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arislaoliveira&layout=compact&show_icons=true&theme=synthwave"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=arislaoliveira&show_icons=true&theme=synthwave"/> 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arislaoliveira&layout=compact&show_icons=true&theme=synthwave"/>
 
  </div>
